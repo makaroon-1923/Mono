@@ -209,4 +209,4 @@ Mono is offered as a full free version with all features and updates included. T
 Don't miss out on the chance to relive a classic! **Download Mono now and dive into the vibrant world of asteroids!**
 
 ---
-**Last updated:** 2026-09-29 08:08:28 UTC
+**Last updated:** 2026-09-29 15:32:31 UTC
